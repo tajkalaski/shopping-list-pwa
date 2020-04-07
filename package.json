@@ -1,0 +1,24 @@
+{
+  "name": "pwa-project",
+  "private": true,
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "devDependencies": {
+    "http-server": "0.8.5"
+  },
+  "description": "It's a really simple ServiceWorker exercise. No build systems, (almost) no dependencies. It's designed to be an interactive introduction to the kinds of things you can do with ServiceWorker.",
+  "version": "1.0.0",
+  "main": "index.html",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tajkalaski/pwa-chris-and-tyson-shopping-list-fabulous-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tajkalaski/pwa-chris-and-tyson-shopping-list-fabulous-project/issues"
+  },
+  "homepage": "https://github.com/tajkalaski/pwa-chris-and-tyson-shopping-list-fabulous-project#readme"
+}
